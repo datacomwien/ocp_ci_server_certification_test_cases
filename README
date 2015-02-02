@@ -3,7 +3,7 @@ Note: Please use Ubuntu 12.04 or lately.
       The shell script will install OCP checkbox automatically.
 
 ######[Download OCP C&I Server Certification Test Cases]######
-$ git clone https://github.com/chilung/OCP_CI_Server_Certification_Test_Cases.git
+$ git clone https://github.com/opencomputeproject/ocp_ci_server_certification_test_cases.git
 
 ######[Installation]######
 $ sudo ./install.sh
